@@ -1,0 +1,4 @@
+#Fri Dec 10 10:36:15 CAT 2021
+base.0=/var/www/skin_cancer_detector/skin_canscer_detector/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
